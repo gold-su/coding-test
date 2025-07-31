@@ -2,6 +2,10 @@
 
 <img src="https://github.com/user-attachments/assets/91450c43-75ff-40f2-867e-6f45bd184594" width="100" />
 
+## 성능 요약
+메모리 : 13876KB
+시간   : 96MS
+
 ### 문제 설명
 Hello World!를 출력하시오.  
 
